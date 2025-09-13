@@ -1,0 +1,7 @@
+Flask==2.3.2
+requests==2.31.0
+aiohttp==3.8.5
+python-dotenv==1.0.0
+pandas==2.2.3
+tqdm==4.66.1
+openai==1.0.0   # optional: only if you plan to use OpenAI
